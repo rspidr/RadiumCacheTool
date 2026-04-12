@@ -14,4 +14,4 @@ Once it is done parsing, it exports the parsed library in a RadiumCacheOutput.tx
 <img width="755" height="709" alt="image" src="https://github.com/user-attachments/assets/7aa155c2-efdc-4d65-9d63-8c8055b48588" />
 
 # Location of the Library file
-Radium uses the same Library cache file normal RecRoom uses currently (`%userprofile%\AppData\LocalLow\Against Gravity\Rec Room`)
+Radium uses the same Library cache file normal RecRoom uses currently (`%userprofile%\AppData\LocalLow\Against Gravity\Rec Room\Library`)
